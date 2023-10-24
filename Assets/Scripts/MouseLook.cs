@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
+
 [AddComponentMenu("Camera-Control/MouseLook")]
 public class MouseLook : MonoBehaviour
 {
